@@ -4,3 +4,9 @@ def add(a,b):
     c = numberone + numbertwo
     return c
 
+def sub(a,b):
+    num1 = int(input("Enter first number"))
+    num2 = int(input("Enter second number"))
+    c = num1 + num2
+    return c
+
