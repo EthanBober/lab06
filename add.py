@@ -1,7 +1,7 @@
 def add(a,b):
     numberone = int(input("Enter first number"))
     numbertwo = int(input("Enter second number"))
-    c = numberone + numbertwo
+    c = numberone + numbertwo + 1
     return c
 
 def sub(a,b):
